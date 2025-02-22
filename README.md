@@ -1,6 +1,8 @@
+# Version 1.0
 # WhaleZam
 This App is meant to be able to find out, what whale is singing in an audio file
-
+# Warning!!!
+This programm may not always work 100% precisely as it is only a first Version
 # how-to-use
 1. This App uses numpy, scipy, tkinter and wave (which is included in scipy).
 If you don't have these libraries, you can install them with the command `pip install numpy scipy tkinter` in your terminal (pip is required for this command).
