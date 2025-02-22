@@ -25,8 +25,6 @@ MAX_HASH_TIME_DELTA = 50
 fullMatchFiles=[]
 fullMatchNums=[]
 matchWhales=[]
-data = wave.open("data.wav","r")
-CompData = wave.open("data.wav","r")
 # empfange Audiosignale und schreibe sie in ein Numpy-Array 
 def getCompAudio(filename):
     CompData = wave.open(filename, 'r')
