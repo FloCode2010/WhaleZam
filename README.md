@@ -9,11 +9,15 @@ If you don't have these libraries, you can install them with the command `pip in
 
 # About us
 We are a german team of two who are particpating in the First Lego League contest 2024/25.
-You can get more information about us and our project on whalezam.org
+You can get more information about us and our project on [whalezam.org](http://whalezam.org/)
 
 # Sources
 https://pypi.org/project/PyDejavu/
+
 https://www.mintgruen.tu-berlin.de/mathesisWiki/doku.php?id=ss16:musik-erkennung
+
 https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
+
 https://youtu.be/nGXe9Sr4BCE?si=_2Yzl9GLj6tnyx4e
+
 http://www.whaletalk.de/vortra5.htm
